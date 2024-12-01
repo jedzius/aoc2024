@@ -16,5 +16,5 @@ To repozytorium zawiera rozwiązania zadań codziennych wyzwań programistycznyc
 ## 🛠️ Kompilacja i Uruchamianie
 1. Wejdz do katalogu z plikami
 2. Uzyj komendy ``gcc [nazwa pliku].c``
-3. Uzyj komendy ./[wygenerowany plik]
+3. Uzyj komendy ``./[wygenerowany plik]``
 4. Ciesz sie rozwiązaniem!
